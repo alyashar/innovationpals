@@ -1,0 +1,4 @@
+
+#####   Thu Jun 14 2018 19:51:10 GMT+0530 (India Standard Time)   #####
+MongoError: >1 field in obj: { path: "user_id project_id", select: "name project_name project_total_donation_amount" }
+#####

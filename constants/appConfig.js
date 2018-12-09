@@ -1,0 +1,20 @@
+module.exports = {
+    DATABASE_URL: process.env.DB_URL || 'mongodb://localhost/my_newproject_db',
+    APP_RUNNING_PORT: process.env.PORT || 1993,
+    APP_ENV: process.env.NODE_ENV || 'development',
+    APP_EMAIL_ADDRESS: process.env.EMAIL_USER || 'developer.encoresky@gmail.com',
+    APP_EMAIL_PASSWORD: process.env.EMAIL_PASSWORD || 'Cricket@21',
+    APP_EMAIL_HOST: process.env.EMAIL_HOST || 'smtp.gmail.com',
+    APP_EMAIL_PORT: process.env.EMAIL_PORT || 587,
+    JWT_AUTHTOKEN_SECRET: process.env.JWT_AUTHTOKEN_SECRET || "iloveindia",
+    ENCRYPT_SECRET: process.env.ENCRYPT_SECRET || "secret",
+    RANDOM_STRING: process.env.RANDOM_STRING || "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789",
+    EMAIL_VERIFY_LINK: "/verify-account",
+    EMAIL_RESET_PASSWORD_LINK: "/reset-password",
+    IMGUR_REFRESH_TOKEN: "20c2c19a80ed5c8c6d1716b9e00b666a5adeb0c7",
+    IMGUR_CLIENT_ID: "260dae673b9b20d",
+    IMGUR_CLIENT_SECRET: "2b8d717ddf9d63e13fcfdcad71e2d65d875bcde9",
+    IMGUR_GRANT_TYPE: "refresh_token",
+    IMGUR_GENERATE_ACCESS_TOKEN_URL: "https://api.imgur.com/oauth2/token",
+    IMGUR_UPLOAD_IMAGE_URL: "https://api.imgur.com/3/image"
+}
