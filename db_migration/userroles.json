@@ -1,0 +1,30 @@
+{
+    "created_at": "2018-05-02T11:54:30.862Z",
+    "updated_at": "2018-05-02T11:54:30.862Z",
+    "_id": "5ae9a6f60fb968224ebdf870",
+    "name": "Super-Admin"
+}
+{
+    "created_at": "2018-05-02T11:55:00.850Z",
+    "updated_at": "2018-05-02T11:55:00.850Z",
+    "_id": "5ae9a7140fb968224ebdf871",
+    "name": "Admin"
+}
+{
+    "created_at": "2018-05-02T11:55:06.916Z",
+    "updated_at": "2018-05-02T11:55:06.916Z",
+    "_id": "5ae9a71a0fb968224ebdf872",
+    "name": "Student"
+}
+{
+    "created_at": "2018-05-04T11:07:57.309Z",
+    "updated_at": "2018-05-04T11:07:57.309Z",
+    "_id": "5aec3f0d221fa80e31883d0c",
+    "name": "Visitors"
+}
+{
+    "created_at": "2018-05-04T11:07:57.309Z",
+    "updated_at": "2018-05-04T11:07:57.309Z",
+    "_id": "5af408af5470d6105940771d",
+    "name": "Master-Admin"
+}

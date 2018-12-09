@@ -1,0 +1,78 @@
+
+#####   Tue Jun 26 2018 02:23:02 GMT+0530 (India Standard Time)   #####
+Email sent: 250 2.0.0 OK 1529959980 p6-v6sm11277634pfd.176 - gsmtp
+#####
+
+#####   Tue Jun 26 2018 15:27:19 GMT+0530 (India Standard Time)   #####
+EMAIL ERROR: Error: Invalid login: 534-5.7.14 <https://accounts.google.com/signin/continue?sarp=1&scc=1&plt=AKgnsbvs
+534-5.7.14 k8_b577OdQqjnRGk9IuisjZt0iAenEFJWFeW8xDeNY0BKVBMd-CZxG9trlH77EuAwsnlwQ
+534-5.7.14 2NkU7YlpNmnX-0W1dOsYc7zF5EH_pja2JLZO25TXf8GF4N1ijN5qEX2LzhLOTmo_xDb6Rq
+534-5.7.14 UoyuoZSb6aILHRv7pLL8kBd_WOMuvXWbCwZH04-KqAaJQZhsAcGEERf1mzqUD_U1GfgvNT
+534-5.7.14 lQjr-9CV19pRQhYKp6Fr4zZo1hFFo> Please log in via your web browser and
+534-5.7.14 then try again.
+534-5.7.14  Learn more at
+534 5.7.14  https://support.google.com/mail/answer/78754 v78-v6sm3401252pfd.64 - gsmtp
+#####
+
+#####   Tue Jun 26 2018 19:50:36 GMT+0530 (India Standard Time)   #####
+EMAIL ERROR: Error: Invalid login: 534-5.7.14 <https://accounts.google.com/signin/continue?sarp=1&scc=1&plt=AKgnsbu5
+534-5.7.14 YoVEtPQJS1W--C1e1xW6OLz21GDUaXgNUoxmvaRb8qNZIQcCsboBP3Z8rHG9vJEirETCjc
+534-5.7.14 aU8kU9fua40Kf9szllhSm-J1-hDtIIuj_cwSx38dVsgGy--IyXqlk-B5SUkFeqoiabU4vf
+534-5.7.14 81sI6uDMMBYeD4MGcThcbySFiJC7fxOKOliEkCvJ9WXaGqzAy0DPqh7cpU5j9i9J1o7doK
+534-5.7.14 xHlmMfSGR6432cymYzBuOn52PVxas> Please log in via your web browser and
+534-5.7.14 then try again.
+534-5.7.14  Learn more at
+534 5.7.14  https://support.google.com/mail/answer/78754 x90-v6sm7555979pfk.151 - gsmtp
+#####
+
+#####   Tue Jun 26 2018 20:26:48 GMT+0530 (India Standard Time)   #####
+EMAIL ERROR: Error: Invalid login: 534-5.7.14 <https://accounts.google.com/signin/continue?sarp=1&scc=1&plt=AKgnsbv6
+534-5.7.14 cMvLXODGQ9CnJUcZJlSguaCh_lPRBqxdc_1quQV2IvuWEYx2BqqhI4nHrKF-9fbVzLP_DZ
+534-5.7.14 2QW8U033n8E5I43LRtuiKZcvHSuOV5uVobOkJs7swJfkPYwlhpZlmwg5a6KPQHxgy0kkJz
+534-5.7.14 1RsgNzhxSBI6Te7QR-LUOYhpyTtRmDd77ilXrHC5IlDFyFVxZI0UxjuqBTQ0QxnOfY9TyT
+534-5.7.14 7NsamNJIvI5_BdVRJO8zhv98X_aKQ> Please log in via your web browser and
+534-5.7.14 then try again.
+534-5.7.14  Learn more at
+534 5.7.14  https://support.google.com/mail/answer/78754 s87-v6sm5718398pfa.106 - gsmtp
+#####
+
+#####   Tue Jun 26 2018 20:35:10 GMT+0530 (India Standard Time)   #####
+EMAIL ERROR: Error: Invalid login: 534-5.7.14 <https://accounts.google.com/signin/continue?sarp=1&scc=1&plt=AKgnsbtZ
+534-5.7.14 MrO96DBdmQ1YMp9Dn0BZNgDgpxXI_jDW_x5IO_z4PVXXVNjWSxaVdnoeesw7fnUocMivVc
+534-5.7.14 xCbF4t7XItmi_6Uf1Y_1yvIRPj7blwhQlw_uaMpBykMEM-xuy56gpMz311t00nU5bj5zlk
+534-5.7.14 iXxXsAl0zDpeEoDZI9rl_0dCe-tu7t4kDBj86c4OYWetlvbErwgSqcEnS6DxEgtWLiUSvG
+534-5.7.14 LkALK_Y-JZttBurif4a3JV-jU0zkM> Please log in via your web browser and
+534-5.7.14 then try again.
+534-5.7.14  Learn more at
+534 5.7.14  https://support.google.com/mail/answer/78754 r8-v6sm2878980pgv.41 - gsmtp
+#####
+
+#####   Tue Jun 26 2018 20:40:59 GMT+0530 (India Standard Time)   #####
+EMAIL ERROR: Error: Invalid login: 534-5.7.14 <https://accounts.google.com/signin/continue?sarp=1&scc=1&plt=AKgnsbsV
+534-5.7.14 JekFNakEx6DOixlCiyyaaRB1iieqfXpUILjipDfLkYKrjDrCySrE5ZvQxb85b8_z57olEj
+534-5.7.14 XkNUNurvgF3b7ulZkF-NItxVgGMakj-CycXag7yXU6yHm-BnW8v5LlhoBvHtdIWl8Hm8g3
+534-5.7.14 9WlhFFqY5HzZbb4fE-Coa1yoVkG2jMkHUeLYzTjCJ9q5FQgOvAxnzNmA6V4MtAoL71i99I
+534-5.7.14 vKM083VthNIR2D3T8t_KNN7ii_pPs> Please log in via your web browser and
+534-5.7.14 then try again.
+534-5.7.14  Learn more at
+534 5.7.14  https://support.google.com/mail/answer/78754 86-v6sm5157713pfp.17 - gsmtp
+#####
+
+#####   Tue Jun 26 2018 20:44:51 GMT+0530 (India Standard Time)   #####
+EMAIL ERROR: Error: Invalid login: 534-5.7.14 <https://accounts.google.com/signin/continue?sarp=1&scc=1&plt=AKgnsbun
+534-5.7.14 nefrcUg-SUMbXEM1YinAihS1mIoAv4OFeJK4BaphGVADdEFnxaHOlImFE2DnvNx3uiMrTd
+534-5.7.14 1adsXLSuSr6GHZhu-UjiCU_GUQMRlmHWKcISneSq1mwJN_d_Bmh4egEH2lWxQmFFhDtyBA
+534-5.7.14 2tMeyS2_qHAoDRlTnuJ9tUuC4pkszVKPH6GWUbGWp801barxukJZrlr1DQsWSaUt9d8wJ7
+534-5.7.14 eDCHnjFntHnnsCCplGA1dGdPLFFRc> Please log in via your web browser and
+534-5.7.14 then try again.
+534-5.7.14  Learn more at
+534 5.7.14  https://support.google.com/mail/answer/78754 j21-v6sm2796251pfn.121 - gsmtp
+#####
+
+#####   Tue Jun 26 2018 20:47:37 GMT+0530 (India Standard Time)   #####
+EMAIL ERROR: Error: Invalid login: 535 5.7.1 Authentication failed
+#####
+
+#####   Tue Jun 26 2018 20:53:39 GMT+0530 (India Standard Time)   #####
+Email sent: 250 OK , completed
+#####

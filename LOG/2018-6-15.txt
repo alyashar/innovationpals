@@ -1,0 +1,16 @@
+
+#####   Fri Jun 15 2018 15:14:35 GMT+0530 (India Standard Time)   #####
+ObjectParameterError: Parameter "filter" to remove() must be an object, got ravi.avairagi@gmail.com
+#####
+
+#####   Fri Jun 15 2018 15:14:57 GMT+0530 (India Standard Time)   #####
+ObjectParameterError: Parameter "filter" to remove() must be an object, got ravi.avairagi@gmail.com
+#####
+
+#####   Fri Jun 15 2018 18:55:13 GMT+0530 (India Standard Time)   #####
+MongoError: the $lookup specification must be an Object
+#####
+
+#####   Fri Jun 15 2018 19:05:14 GMT+0530 (India Standard Time)   #####
+MongoError: dotted field names are only allowed at the top level
+#####

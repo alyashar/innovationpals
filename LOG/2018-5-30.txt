@@ -1,0 +1,10 @@
+
+#####   Wed May 30 2018 17:18:03 GMT+0530 (India Standard Time)   #####
+MissingSchemaError: Schema hasn't been registered for model "Tasks".
+Use mongoose.model(name, schema)
+#####
+
+#####   Wed May 30 2018 17:51:33 GMT+0530 (India Standard Time)   #####
+MissingSchemaError: Schema hasn't been registered for model "Tasks".
+Use mongoose.model(name, schema)
+#####

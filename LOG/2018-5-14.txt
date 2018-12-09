@@ -1,0 +1,9 @@
+
+#####   Mon May 14 2018 12:17:10 GMT+0530 (IST)   #####
+Error: Invalid login: 535 Incorrect authentication data
+#####
+
+#####   Mon May 14 2018 13:18:42 GMT+0530 (IST)   #####
+MissingSchemaError: Schema hasn't been registered for model "Rating".
+Use mongoose.model(name, schema)
+#####

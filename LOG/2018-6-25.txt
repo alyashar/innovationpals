@@ -1,0 +1,123 @@
+
+#####   Mon Jun 25 2018 16:12:36 GMT+0530 (India Standard Time)   #####
+Email sent: 250 2.0.0 OK 1529923354 r90-v6sm10086004pfl.162 - gsmtp
+#####
+
+#####   Mon Jun 25 2018 16:14:07 GMT+0530 (India Standard Time)   #####
+Email sent: 250 2.0.0 OK 1529923445 e63-v6sm12641749pfk.133 - gsmtp
+#####
+
+#####   Mon Jun 25 2018 16:14:41 GMT+0530 (India Standard Time)   #####
+Email sent: 250 2.0.0 OK 1529923479 m11-v6sm40531494pfj.25 - gsmtp
+#####
+
+#####   Mon Jun 25 2018 16:19:03 GMT+0530 (India Standard Time)   #####
+Email sent: 250 2.0.0 OK 1529923741 y3-v6sm4149120pge.29 - gsmtp
+#####
+
+#####   Mon Jun 25 2018 16:19:55 GMT+0530 (India Standard Time)   #####
+Email sent: 250 2.0.0 OK 1529923793 n25-v6sm7565199pff.119 - gsmtp
+#####
+
+#####   Mon Jun 25 2018 16:31:24 GMT+0530 (India Standard Time)   #####
+EMAIL ERROR: Error: connect ECONNREFUSED 127.0.0.1:587
+#####
+
+#####   Mon Jun 25 2018 16:41:17 GMT+0530 (India Standard Time)   #####
+Email sent: 250 2.0.0 OK 1529925075 z26-v6sm28821509pfd.60 - gsmtp
+#####
+
+#####   Mon Jun 25 2018 16:45:46 GMT+0530 (India Standard Time)   #####
+EMAIL ERROR: Error: connect ECONNREFUSED 127.0.0.1:587
+#####
+
+#####   Mon Jun 25 2018 16:56:28 GMT+0530 (India Standard Time)   #####
+EMAIL ERROR: Error: connect ECONNREFUSED 127.0.0.1:587
+#####
+
+#####   Mon Jun 25 2018 16:57:09 GMT+0530 (India Standard Time)   #####
+EMAIL ERROR: Error: connect ECONNREFUSED 127.0.0.1:587
+#####
+
+#####   Mon Jun 25 2018 16:58:26 GMT+0530 (India Standard Time)   #####
+EMAIL ERROR: Error: connect ECONNREFUSED 127.0.0.1:587
+#####
+
+#####   Mon Jun 25 2018 16:59:32 GMT+0530 (India Standard Time)   #####
+EMAIL ERROR: Error: connect ECONNREFUSED 127.0.0.1:587
+#####
+
+#####   Mon Jun 25 2018 17:01:59 GMT+0530 (India Standard Time)   #####
+EMAIL ERROR: Error: connect ECONNREFUSED 127.0.0.1:587
+#####
+
+#####   Mon Jun 25 2018 17:04:21 GMT+0530 (India Standard Time)   #####
+EMAIL ERROR: Error: connect ETIMEDOUT 74.125.24.108:587
+#####
+
+#####   Mon Jun 25 2018 17:14:15 GMT+0530 (India Standard Time)   #####
+EMAIL ERROR: Error: connect ECONNREFUSED 127.0.0.1:587
+#####
+
+#####   Mon Jun 25 2018 17:18:58 GMT+0530 (India Standard Time)   #####
+EMAIL ERROR: Error: connect ECONNREFUSED 127.0.0.1:587
+#####
+
+#####   Mon Jun 25 2018 17:21:20 GMT+0530 (India Standard Time)   #####
+EMAIL ERROR: Error: connect ECONNREFUSED 127.0.0.1:587
+#####
+
+#####   Mon Jun 25 2018 17:21:44 GMT+0530 (India Standard Time)   #####
+EMAIL ERROR: Error: connect ECONNREFUSED 127.0.0.1:587
+#####
+
+#####   Mon Jun 25 2018 17:27:16 GMT+0530 (India Standard Time)   #####
+EMAIL ERROR: Error: connect ECONNREFUSED 127.0.0.1:587
+#####
+
+#####   Mon Jun 25 2018 17:28:54 GMT+0530 (India Standard Time)   #####
+EMAIL ERROR: Error: connect ECONNREFUSED 127.0.0.1:587
+#####
+
+#####   Mon Jun 25 2018 17:29:57 GMT+0530 (India Standard Time)   #####
+EMAIL ERROR: Error: connect ECONNREFUSED 127.0.0.1:587
+#####
+
+#####   Mon Jun 25 2018 18:06:38 GMT+0530 (India Standard Time)   #####
+EMAIL ERROR: Error: Invalid login: 534-5.7.9 Application-specific password required. Learn more at
+534 5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor v26-v6sm21964200pfn.105 - gsmtp
+#####
+
+#####   Mon Jun 25 2018 18:08:10 GMT+0530 (India Standard Time)   #####
+EMAIL ERROR: Error: Invalid login: 534-5.7.9 Application-specific password required. Learn more at
+534 5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor q77-v6sm36368683pfk.152 - gsmtp
+#####
+
+#####   Mon Jun 25 2018 18:08:42 GMT+0530 (India Standard Time)   #####
+EMAIL ERROR: Error: Invalid login: 534-5.7.9 Application-specific password required. Learn more at
+534 5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor q207-v6sm23277785pgq.11 - gsmtp
+#####
+
+#####   Mon Jun 25 2018 18:09:30 GMT+0530 (India Standard Time)   #####
+EMAIL ERROR: Error: Invalid login: 534-5.7.9 Application-specific password required. Learn more at
+534 5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor r26-v6sm40705318pfj.180 - gsmtp
+#####
+
+#####   Mon Jun 25 2018 18:09:49 GMT+0530 (India Standard Time)   #####
+EMAIL ERROR: Error: Invalid login: 534-5.7.9 Application-specific password required. Learn more at
+534 5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor c67-v6sm26125994pfj.173 - gsmtp
+#####
+
+#####   Mon Jun 25 2018 18:11:19 GMT+0530 (India Standard Time)   #####
+EMAIL ERROR: Error: Invalid login: 534-5.7.9 Application-specific password required. Learn more at
+534 5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor s87-v6sm13227014pfa.106 - gsmtp
+#####
+
+#####   Mon Jun 25 2018 18:18:04 GMT+0530 (India Standard Time)   #####
+EMAIL ERROR: Error: Invalid login: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials t23-v6sm29213056pfa.86 - gsmtp
+#####
+
+#####   Mon Jun 25 2018 18:20:31 GMT+0530 (India Standard Time)   #####
+Email sent: 250 2.0.0 OK 1529931029 s5-v6sm30984711pgo.65 - gsmtp
+#####
