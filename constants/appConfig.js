@@ -1,5 +1,5 @@
 module.exports = {
-    DATABASE_URL: process.env.DB_URL || 'mongodb://localhost/my_newproject_db',
+    DATABASE_URL: process.env.DB_URL || 'mongodb://localhost/innovationpals_db',
     APP_RUNNING_PORT: process.env.PORT || 1993,
     APP_ENV: process.env.NODE_ENV || 'development',
     APP_EMAIL_ADDRESS: process.env.EMAIL_USER || 'developer.encoresky@gmail.com',
